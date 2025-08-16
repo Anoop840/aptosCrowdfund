@@ -24,3 +24,5 @@ Students, teachers, and communities can transparently contribute towards classro
 ---
 
 ## 📍 Contract Address
+```text
+0x7d4ba789b46db4ed8b11271f446bd9c242af1908a7387d2837e42c9253b9afaf
